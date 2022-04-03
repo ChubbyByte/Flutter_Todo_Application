@@ -1,0 +1,16 @@
+https://pub.dev/packages/intl/install
+https://pub.dev/packages/flutter_launcher_icons/install
+https://pub.dev/packages/http/install
+
+https://exchangeratesapi.io/
+https://exchangeratesapi.io/documentation/
+https://manage.exchangeratesapi.io/quickstart
+>>
+chubbybyte@gmail.com
+1234@ExCRapi
+
+https://quicktype.io/
+https://app.quicktype.io/
+
+https://flutter-examples.com/flutter-solve-the-parameter-id-cant-have-a-value-of-null/
+https://benzneststudios.com/blog/dart/hello-sound-null-safety-in-dart/

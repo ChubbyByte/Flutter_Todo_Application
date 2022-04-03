@@ -1,0 +1,2 @@
+https://pub.dev/packages/scoped_model/install
+https://pub.dev/packages/google_fonts/install

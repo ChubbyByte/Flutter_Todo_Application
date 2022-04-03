@@ -1,0 +1,28 @@
+IDE --> https://dartpad.dartlang.org/?
+
+https://benzneststudios.com/blog/flutter/
+
+https://www.w3schools.com/php/func_json_encode.asp
+https://www.w3schools.com/php/php_mysql_connect.asp
+https://www.w3schools.com/php/func_string_str_replace.asp
+https://www.w3schools.com/php/func_mysqli_fetch_assoc.asp
+https://www.tutsmake.com/replace-first-and-last-character-from-string-php/
+https://www.w3schools.com/php/php_operators.asp
+
+https://codewithandrea.com/articles/parse-json-dart/
+https://www.kindacode.com/article/how-to-encode-decode-json-in-flutter/
+
+https://blog.intception.me/dev/flutter/json-serializable.html
+https://blog.intception.me/dev/flutter/dart-part-1.html
+https://blog.intception.me/dev/flutter/easy-localization.html
+
+https://docs.flutter.dev/cookbook/networking/send-data
+https://www.youtube.com/watch?v=ljTkGz_O36I
+
+https://www.ninenik.com/บทความ-Flutter-28_1.html
+
+Converting JSON to Dart Classes
+https://www.youtube.com/watch?v=qd_7SP6-bwk&t=25s
+
+Flutter Convert JSON to Dart Model Classes
+https://www.youtube.com/watch?v=GiKOfdoD6R8&t=10s

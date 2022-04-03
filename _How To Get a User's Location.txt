@@ -1,0 +1,5 @@
+https://www.google.com/search?q=flutter+get+latitude+and+longitude&rlz=1C1CHZO_enTH927TH927&oq=flutter+get+la&aqs=chrome.1.69i57j0i512l9.6393j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.digitalocean.com/community/tutorials/flutter-geolocator-plugin
+
+https://pub.dev/packages/geolocator

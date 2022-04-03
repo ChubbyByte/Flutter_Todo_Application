@@ -1,0 +1,43 @@
+tutorial -->> https://www.youtube.com/playlist?list=PLbd9-9nbCzE6z0hRtWhmarbhfxuuF9XaL
+last episode >> 19. Flutter + PHP: Todo App - Deleting task from the database
+
+https://pub.dev/packages/scoped_model/install
+
+https://pub.dev/packages/google_fonts/install
+https://fonts.google.com/specimen/IBM+Plex+Sans+Thai?subset=thai
+
+https://www.kindacode.com/article/flutter-rounded-card/
+
+https://stackoverflow.com/questions/53844052/how-to-make-an-alertdialog-in-flutter
+https://www.codevscolor.com/flutter-floating-action-button-color
+
+floatingActionButton: Row(
+          mainAxisAlignment: MainAxisAlignment.end,
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            FloatingActionButton(
+              onPressed: () {
+                onSubmit(model.addTask);
+                if (model.isLoading) {
+                  showAlertDialog(context);
+                }
+              },
+              child: const Icon(Icons.save_alt_sharp),
+              backgroundColor: Colors.greenAccent,
+              focusColor: Colors.blue,
+              foregroundColor: Colors.black,
+              hoverColor: Colors.black,
+              splashColor: Colors.black,
+            ),
+            SizedBox(width: 16),
+            FloatingActionButton(
+              onPressed: () {},
+              child: const Icon(Icons.delete_forever),
+              backgroundColor: Colors.redAccent,
+              focusColor: Colors.blue,
+              foregroundColor: Colors.white,
+              hoverColor: Colors.black,
+              splashColor: Colors.black,
+            ),
+          ],
+        ),
